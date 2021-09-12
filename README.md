@@ -6,4 +6,4 @@ Preview of the Project
 ![](images/image 1.PNG)
 ![](images/Capture.PNG)
 
-# Credit: to Keras
+# Credit: to Streamlit
